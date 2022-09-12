@@ -1,0 +1,52 @@
+body{
+    background-color: #ddd;
+}
+
+#Texto1{
+    width:50%;
+    float:left;
+    font-family:Verdana;
+    font-size:150%;
+    text-align:center;
+    background-color: aquamarine;
+   }
+   #p_texto1{
+    text-align:center;
+    margin-bottom:2em;
+   }
+   #imagen1{
+    width:90%;
+    
+   }
+   #separacion{
+    clear:both;
+   }
+   #texto2{
+    width:50%;
+    background-color: aquamarine;
+    font-size:200%;
+    text-align:left;
+    padding-left: 150px;
+    padding-bottom: 20px;
+   }
+   #p_texto2{
+    text-align:left;
+   }
+   #imagen2{
+    width:50%;
+    background-color: lightgreen;
+    text-align: left;
+    
+   }
+   #imagen3{
+    width:50%;
+    background-color: lightgreen;
+    text-align: left;
+    
+   }
+   #hobbie1{
+    font-size: 30px;
+   }
+   #hobbie2{
+    font-size: 30px;
+   }
